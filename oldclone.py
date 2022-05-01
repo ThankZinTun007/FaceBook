@@ -140,11 +140,11 @@ def banner():
 
 ───────────────────────────────────────────────────────
 
- [\x1b[1;96m+%s] Editer  : Nyi Zay Min
+ [\x1b[1;96m+%s] Editer  : Thank Zin Tun
 
  [\x1b[1;96m+%s] COUNTRY   : Myanmar
 
- [\x1b[1;96m+%s] STATUS : Lee Pal Ya Mal
+ [\x1b[1;96m+%s] STATUS : Ok Par
 
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 
